@@ -1,0 +1,179 @@
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.exe
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.deps.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.runtimeconfig.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.runtimeconfig.dev.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.pdb
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csprojAssemblyReference.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\staticwebassets\DutchTreat.StaticWebAssets.Manifest.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\staticwebassets\DutchTreat.StaticWebAssets.xml
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.AssemblyInfoInputs.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.AssemblyInfo.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.dll
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.pdb
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.genruntimeconfig.cache
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\package.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CopyComplete
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.Views.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.Views.pdb
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.input.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.output.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorCoreGenerate.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Index.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorTargetAssemblyInfo.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.Views.pdb
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\About.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Contact.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\config.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Shop.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Data\art.json
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\NServiceBus.Host.exe
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\config.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Data\art.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\package.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.exe
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.deps.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.runtimeconfig.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.runtimeconfig.dev.json
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.pdb
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.Views.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\DutchTreat.Views.pdb
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\NServiceBus.Host.exe
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Part 8(Auto mapper)\DutchTreat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csprojAssemblyReference.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\staticwebassets\DutchTreat.StaticWebAssets.Manifest.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\staticwebassets\DutchTreat.StaticWebAssets.xml
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorAssemblyInfo.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.AssemblyInfoInputs.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.AssemblyInfo.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.input.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.TagHelpers.output.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorCoreGenerate.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\About.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Contact.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Index.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\App\Shop.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorTargetAssemblyInfo.cache
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.RazorTargetAssemblyInfo.cs
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.Views.pdb
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CopyComplete
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.dll
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.pdb
+D:\Part 8(Auto mapper)\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.genruntimeconfig.cache
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\topu_\source\repos\DutchTreat\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.csproj.CoreCompileInputs.cache
+C:\Users\topu_\source\repos\DutchTreat\obj\Debug\netcoreapp3.1\DutchTreat.MvcApplicationPartsAssemblyInfo.cache

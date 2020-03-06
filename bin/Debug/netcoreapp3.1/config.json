@@ -1,0 +1,22 @@
+{
+    "Colors": {
+        "Favorite": "blue"
+    },
+    "ConnectionStrings": {
+        "DutchConnectionString": "server=TOPUPC\\TOPUSQL;Database=DutchTreatDb;Integrated Security=True;MultipleActiveResultSets=true;"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning"
+        }
+    },
+    "Tokens": {
+        "Key": "a;lkjasdf;lkajsd;flkjas ;dflkja sd",
+        "Issuer": "http://localhost:8888",
+        "Audience": "users"
+    }
+
+}
+
+
